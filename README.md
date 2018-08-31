@@ -5,7 +5,7 @@ O algoritmo A\* é uma modificação do algoritmo Dijkstra’s otimizado para a 
 #### Desenvolvimento e Pesquisa:
 
 * Rafael Araujo
-* Douglas Ammirante
+* [Douglas Ammirante](https://github.com/ammirante)
 * Maurício Barbosa
 * Victor Silva
 
