@@ -1,0 +1,10 @@
+teste.sh
+*.txt
+*.cpp
+*.doc
+*.zip
+__pycache__
+*.pyc
+astar.py
+implementation.py
+res
